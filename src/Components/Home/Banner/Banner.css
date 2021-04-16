@@ -1,0 +1,10 @@
+.banner-container{
+    height: 70vh;
+}
+.banner-contents h1{
+    font-size: 3.5rem;
+    /* background-color: rgba(7, 101, 189, .8); */
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Grandstander', cursive;
+}

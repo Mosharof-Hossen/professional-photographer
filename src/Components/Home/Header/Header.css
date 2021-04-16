@@ -1,0 +1,8 @@
+.header-style{
+    background-image: url("../../../Images/professional-dslr.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height:600px
+}

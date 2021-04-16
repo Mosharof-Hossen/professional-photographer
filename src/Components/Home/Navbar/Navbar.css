@@ -1,0 +1,15 @@
+.header-btn{
+    border :none;
+    transition: .4s;
+}
+.header-btn:hover{
+    background-color:#3A4256;
+    color: white;
+    transform: scale(1.1);
+}
+html{
+    scroll-behavior: smooth;
+}
+.camera-logo{
+    height : 40px;
+}
