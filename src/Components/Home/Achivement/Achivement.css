@@ -1,0 +1,26 @@
+.achievement-head {
+    text-align: center;
+    background-color: rgb(37, 37, 37);
+    padding: 10px;
+    color: white;
+}
+
+.achievement {
+    background-color: teal;
+    height: 550px;
+}
+
+.achievement p {
+    color: white;
+    font-size: justify;
+}
+
+.achievement input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10px;
+    resize: none;
+}
